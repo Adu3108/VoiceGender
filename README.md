@@ -25,6 +25,13 @@ https://medium.com/@jameschen_78678/predict-gender-with-voice-and-speech-data-34
 
 ## Instructions to Run the Code
 
+### 0) Setting up Virtual Environment and installing necessary packages
+```bash
+python3 -m venv project
+source project/bin/activate
+pip install -r requirements.txt
+```
+
 ### 1) VoiceGender
 ```bash
 python3 LinearClassifier.py
