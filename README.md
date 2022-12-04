@@ -1,6 +1,6 @@
 # Voice Gender Recognition
 ---
-This repository contains the project done as a part of CS335: Artificial Intelligence and Machine Learning at IIT Bombay in Autumn 2022.
+This repository contains the project done as a part of CS337: Artificial Intelligence and Machine Learning at IIT Bombay in Autumn 2022.
 
 ## Team Members
 1. Advait Padhye
